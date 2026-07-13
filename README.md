@@ -3,6 +3,8 @@
 
 Engenheiro de Software focado no desenvolvimento de sistemas de alta performance, projetando soluções na interseção entre a engenharia de baixo nível e a otimização extrema de runtimes para Inteligência Artificial. Trabalho na eliminação de camadas de abstração desnecessárias, visando extrair o potencial máximo do hardware através de código determinístico e gerenciamento rigoroso de recursos.
 
+"Entre o Café e a Xícara, eu sou o mais honrado" — ...//
+
 ---
 
 ## Áreas de Atuação Técnica
