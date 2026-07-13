@@ -1,38 +1,36 @@
-# Davi D'artemis
-**Systems Engineering | AI & Machine Learning Infrastructure**
+# Olá, eu sou Davi!
 
-Engenheiro de Software focado no desenvolvimento de sistemas de alta performance, projetando soluções na interseção entre a engenharia de baixo nível e a otimização extrema de runtimes para Inteligência Artificial. Trabalho na eliminação de camadas de abstração desnecessárias, visando extrair o potencial máximo do hardware através de código determinístico e gerenciamento rigoroso de recursos.
+Se você não me achar por aqui, com certeza estou tomando café.
 
-"Entre o Café e a Xícara, eu sou o mais honrado" — ...//
+Sou uma mistura meio doida entre especialista em café e programador de baixo nível, tentando manter uma empresa de pé enquanto brinco de espremer silício por aqui. Meu foco é escrever C++ o mais perto do metal possível e otimizar runtimes de LLM para rodarem rápido onde nem deveriam rodar.
+
+Se quiser conhecer um pouco mais da minha torrefação de café especial, passa lá na [Arvo Concept](https://arvoconcept.com.br).
 
 ---
 
-## Áreas de Atuação Técnica
+## Formação e Crachás
+
+* **Graduação:** Engenharia de Software — FIAP São Paulo
+* **Pós-Graduação:** Inteligência Artificial e Machine Learning
+* **No dia a dia:** Desenvolvimento e capacitação técnica no Time Senac-DF
+* **No resto do tempo:** Empreendedor e Q-Grader Internacional (sim, eu sou provafor profissional de café. é sim isso existe).
+
+---
+
+## O que eu faço por aqui (quando o café faz efeito)
 
 ### Engenharia de Baixo Nível & C++
-* **Arquitetura e Performance:** Desenvolvimento estruturado com foco em localidade de cache, alocação de memória customizada e minimização de overhead de runtime.
-* **Computação Gráfica e Motores Gráficos:** Estudo e implementação de subsistemas fundamentais para game engines, incluindo gerenciamento de ciclo de vida de objetos, lógica vetorial para física/gravidade e matrizes de colisão brutas.
-* **Otimização de Hardware:** Escrita de código previsível e orientado a arquiteturas específicas, priorizando o controle absoluto sobre a execução do processador.
+* **Gerenciamento manual de memória:** Sem Garbage Collector limpando minha bagunça. O foco é controle absoluto do hardware.
+* **Cache Locality:** Código estruturado pensando em como a CPU realmente lê os dados. Se a estrutura quebrar a cache line, para mim está errado.
+* **Gamedev raiz:** Construindo subsistemas de game engines do zero. Lógica vetorial pura, gravidade e matrizes de colisão brutas, sem o conforto de engines prontas.
 
-### Desenvolvimento e Infraestrutura de LLMs
-* **Runtimes de Inferência:** Arquitetura e otimização de engines voltadas para a execução de Large Language Models (LLMs) em ambientes de computação restrita ou de alta demanda.
-* **Aceleração de Hardware:** Implementação de técnicas de paralelização e otimização lógica para pipelines de inferência de modelos fundacionais.
-* **Eficiência de Modelos:** Pesquisa voltada para a redução de latência e pegada de memória em sistemas de inteligência artificial, garantindo viabilidade técnica sem perda severa de precisão.
-
----
-
-## Ecossistema Profissional e Formação
-
-* **Engenharia de Software** — FIAP São Paulo
-* **Pós-Graduação em Inteligência Artificial e Machine Learning**
-* **Desenvolvimento e Capacitação** — Time Senac-DF
-* **Análise Sensorial & Negócios** — Q-Grader Internacional / Empreendedor
+### Otimização e Runtimes de LLM
+* **Inference Engines:** Destrinchando pipelines de Large Language Models para garantir latência mínima e eficiência de memória.
+* **Aproveitamento de Silício:** Paralelização, quantização e multiplicação de matrizes de forma agressiva para viabilizar a execução de modelos fundacionais em ambientes de computação restrita.
 
 ---
 
-## Indicadores de Desenvolvimento
-
-Para acompanhar a evolução dos repositórios, arquiteturas de teste e commits ativos de projetos em C++ e IA:
+## Métricas de Compilação
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api?username=OpomboMorto&theme=midnight-purple&hide_border=false)
 
