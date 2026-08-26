@@ -12,7 +12,7 @@ Se quiser conhecer um pouco mais da minha torrefação de café especial, passa 
 
 * **Graduação:** Engenharia de Software — FIAP São Paulo
 * **Pós-Graduação:** Inteligência Artificial e Machine Learning
-* **No dia a dia:** Desenvolvimento e capacitação técnica no Time Senac-DF
+* **No dia a dia:** Desenvolvimento e capacitação técnica no Time Senac-DF &  flywire team.
 * **No resto do tempo:** Empreendedor e Q-Grader Internacional (sim, eu sou "Sommelier" (avaliador) de café. é sim isso existe).
 
 ---
