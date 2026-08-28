@@ -1,37 +1,112 @@
-# Olá, eu sou Davi!
+# Davi D'Artemis
 
-Se você não me achar por aqui, com certeza estou tomando café.
+Pesquisador independente, engenheiro de software e empreendedor com atuação nas áreas de Inteligência Artificial, Neurocomputação, Sistemas de Alto Desempenho e Computação de Baixo Nível.
 
-Sou uma mistura meio doida entre especialista em café e programador de baixo nível, tentando manter uma empresa de pé enquanto brinco de espremer silício por aqui. Meu foco é escrever C++ o mais perto do metal possível e otimizar runtimes de LLM para rodarem rápido onde nem deveriam rodar.
-
-Se quiser conhecer um pouco mais da minha torrefação de café especial, passa lá na [Arvo Concept](https://arvoconcept.com.br).
+Minha trajetória combina desenvolvimento de software próximo ao hardware, pesquisa em arquitetura cognitiva computacional e investigação de modelos inspirados em sistemas biológicos. Atualmente, concentro meus estudos no cruzamento entre neurociência computacional, conectômica, inteligência artificial e otimização de sistemas para computação restrita.
 
 ---
 
-## Formação e Crachás
+## Formação Acadêmica
 
-* **Graduação:** Engenharia de Software — FIAP São Paulo
-* **Pós-Graduação:** Inteligência Artificial e Machine Learning
-* **No dia a dia:** Desenvolvimento e capacitação técnica no Time Senac-DF &  flywire team.
-* **No resto do tempo:** Empreendedor e Q-Grader Internacional (sim, eu sou "Sommelier" (avaliador) de café. é sim isso existe).
-
----
-
-## O que eu faço por aqui (quando o café faz efeito)
-
-### Engenharia de Baixo Nível & C++
-* **Gerenciamento manual de memória:** Sem Garbage Collector limpando minha bagunça. O foco é controle absoluto do hardware.
-* **Cache Locality:** Código estruturado pensando em como a CPU realmente lê os dados. Se a estrutura quebrar a cache line, para mim está errado.
-* **Gamedev raiz:** Construindo subsistemas de game engines do zero. Lógica vetorial pura, gravidade e matrizes de colisão brutas, sem o conforto de engines prontas.
-
-### Otimização e Runtimes de LLM
-* **Inference Engines:** Destrinchando pipelines de Large Language Models para garantir latência mínima e eficiência de memória.
-* **Aproveitamento de Silício:** Paralelização, quantização e multiplicação de matrizes de forma agressiva para viabilizar a execução de modelos fundacionais em ambientes de computação restrita.
+- **Engenharia de Software** – FIAP, São Paulo
+- **Pós-Graduação em Inteligência Artificial e Machine Learning**
+- **Q-Grader Internacional** (Coffee Quality Institute)
+- Formação complementar em análise de sistemas complexos, computação paralela e modelagem computacional aplicada à IA
 
 ---
 
-## Métricas de Compilação
+## Áreas de Pesquisa
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api?username=OpomboMorto&theme=midnight-purple&hide_border=false)
+### Inteligência Artificial e Sistemas Cognitivos
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OpomboMorto&theme=midnight-purple&hide_border=false&layout=compact)
+Desenvolvimento e análise de arquiteturas de inteligência artificial com ênfase em:
+
+- Modelos cognitivos inspirados em processos biológicos.
+- Inferência eficiente para Large Language Models (LLMs).
+- Otimização de memória e processamento em ambientes restritos.
+- Arquiteturas neuromórficas e computação inspirada no cérebro.
+- Sistemas adaptativos e aprendizagem distribuída.
+
+### Neurocomputação e Consciência Artificial
+
+Autor de pesquisas independentes voltadas para a relação entre:
+
+- Consciência e processamento informacional.
+- Modelagem computacional da percepção.
+- Emergência de comportamento inteligente em sistemas artificiais.
+- Estruturas neurais e representação computacional da cognição.
+- Teorias computacionais aplicadas à consciência artificial.
+
+---
+
+## Pesquisa em Conectômica
+
+Participação em estudos e discussões técnicas relacionados ao **FlyWire Project**, iniciativa internacional voltada ao mapeamento do conectoma completo da *Drosophila melanogaster* (mosca-das-frutas).
+
+Os trabalhos concentram-se na análise de:
+
+- Organização estrutural de redes neurais biológicas.
+- Arquiteturas de comunicação entre neurônios.
+- Inspiração biológica para sistemas de IA.
+- Transferência de princípios do conectoma para modelos computacionais.
+- Relação entre conectividade neural e comportamento emergente.
+
+---
+
+## Engenharia de Software e Computação de Baixo Nível
+
+Desenvolvimento de soluções com foco em desempenho, previsibilidade e máximo aproveitamento de hardware.
+
+### Especialidades
+
+- C++
+- Sistemas de tempo real
+- Gerenciamento manual de memória
+- Otimização orientada a cache
+- Programação paralela
+- Vetorização e SIMD
+- Computação ARM64
+- Motores de inferência para IA
+
+### Interesse Técnico
+
+- Compiladores e runtimes
+- Virtualização
+- Sistemas gráficos
+- Computação científica
+- Game Engine Architecture
+- Sistemas distribuídos
+- Aceleração de inferência
+
+---
+
+## Projetos e Publicações
+
+Este repositório reúne pesquisas, experimentos, artigos técnicos e protótipos relacionados a:
+
+- Inteligência Artificial
+- Neurocomputação
+- Consciência Computacional
+- Modelos Cognitivos
+- Sistemas de Alto Desempenho
+- Computação Inspirada em Redes Neurais Biológicas
+- Engenharia de Software de Baixo Nível
+
+Dentre os trabalhos desenvolvidos encontram-se artigos e estudos focados na investigação da consciência sob a perspectiva computacional e neurocientífica, buscando estabelecer pontes entre neurociência moderna, teoria da informação e inteligência artificial.
+
+---
+
+## Atuação Profissional
+
+Além da pesquisa e desenvolvimento tecnológico, atuo em projetos de inovação, capacitação técnica e soluções computacionais de alta performance, conciliando ciência aplicada, engenharia de software e empreendedorismo.
+
+---
+
+## Contato e Projetos
+
+- 🌐 https://arvoconcept.com.br
+- 💻 GitHub: https://github.com/OpomboMorto
+
+---
+
+> "A compreensão da inteligência artificial exige não apenas máquinas mais rápidas, mas também uma compreensão mais profunda de como sistemas complexos processam informação e produzem comportamento inteligente."
