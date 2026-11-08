@@ -9,7 +9,7 @@ Minha trajetória combina desenvolvimento de software próximo ao hardware, pesq
 ## Formação Acadêmica
 
 - **Engenharia de Software** – FIAP, São Paulo
-- **Pós-Graduação em Inteligência Artificial e Machine Learning**
+- **Inteligência Artificial e Machine Learning**
 - **Q-Grader Internacional** (Coffee Quality Institute)
 - Formação complementar em análise de sistemas complexos, computação paralela e modelagem computacional aplicada à IA
 
